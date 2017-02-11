@@ -1,3 +1,3 @@
-# Hello-Word
+# Hello-World
 
 first codes in GitHub
